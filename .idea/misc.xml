@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/SLIIT/SLIIT Y2S2/MAD/android project 2/MadTest3/app/src/main/res/layout/activity_doc_appointment.xml" value="0.15307971014492755" />
+        <entry key="..\:/SLIIT/SLIIT Y2S2/MAD/android project 2/MadTest3/app/src/main/res/layout/activity_forgot_password.xml" value="0.1" />
+        <entry key="..\:/SLIIT/SLIIT Y2S2/MAD/android project 2/MadTest3/app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="..\:/SLIIT/SLIIT Y2S2/MAD/android project 2/MadTest3/app/src/main/res/layout/activity_register_user.xml" value="0.1" />
+        <entry key="..\:/SLIIT/SLIIT Y2S2/MAD/android project 2/MadTest3/app/src/main/res/layout/activity_select_doctor.xml" value="0.15307971014492755" />
+        <entry key="..\:/Users/Mudi/Desktop/Delivery/MAD/Project/app/src/main/res/layout/activity_appointment.xml" value="0.371875" />
+        <entry key="..\:/Users/Mudi/Desktop/MAD/MadTest2/app/src/main/res/layout/activity_bmi.xml" value="0.10208333333333333" />
+        <entry key="..\:/Users/Mudi/Desktop/MAD/MadTest2/app/src/main/res/layout/activity_calorie_cal.xml" value="0.10208333333333333" />
+        <entry key="..\:/Users/Mudi/Desktop/MAD/MadTest2/app/src/main/res/layout/activity_forgot_password.xml" value="0.10208333333333333" />
+        <entry key="..\:/Users/Mudi/Desktop/MAD/MadTest2/app/src/main/res/layout/activity_health_calculator.xml" value="0.10208333333333333" />
+        <entry key="..\:/Users/Mudi/Desktop/MAD/MadTest2/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/Users/Mudi/Desktop/MAD/MadTest2/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Mudi/Desktop/MAD/MadTest2/app/src/main/res/layout/activity_main2.xml" value="0.1" />
+        <entry key="..\:/Users/Mudi/Desktop/MAD/MadTest2/app/src/main/res/layout/activity_nav_drawer.xml" value="0.1" />
+        <entry key="..\:/Users/Mudi/Desktop/MAD/MadTest2/app/src/main/res/layout/activity_profile.xml" value="0.1484375" />
+        <entry key="..\:/Users/Mudi/Desktop/MAD/MadTest2/app/src/main/res/layout/activity_register_user.xml" value="0.10208333333333333" />
+        <entry key="..\:/Users/Mudi/Desktop/MAD/MadTest2/app/src/main/res/layout/activity_select_doctor.xml" value="0.22" />
+        <entry key="..\:/Users/Mudi/Desktop/MAD/MadTest2/app/src/main/res/layout/activity_step_counter.xml" value="0.10208333333333333" />
+        <entry key="..\:/Users/Mudi/Desktop/MAD/MadTest2/app/src/main/res/layout/activity_update_user.xml" value="0.1" />
+        <entry key="..\:/Users/Mudi/Desktop/MAD/MadTest2/app/src/main/res/layout/main_nav_drawer.xml" value="0.33" />
+        <entry key="..\:/Users/Mudi/Desktop/MAD/MadTest2/app/src/main/res/layout/main_toolbar.xml" value="0.1484375" />
+        <entry key="..\:/Users/Mudi/Desktop/MAD/MadTest2/app/src/main/res/layout/main_toolbar_app_bmi.xml" value="0.10208333333333333" />
+        <entry key="..\:/Users/Mudi/Desktop/MAD/MadTest2/app/src/main/res/layout/main_toolbar_app_update_user.xml" value="0.1" />
+        <entry key="..\:/Users/gf65/AndroidStudioProjects/EMedicare/app/src/main/res/drawable/ic_acc.xml" value="0.18958333333333333" />
+        <entry key="..\:/Users/gf65/AndroidStudioProjects/EMedicare/app/src/main/res/drawable/ic_back.xml" value="0.18958333333333333" />
+        <entry key="..\:/Users/gf65/AndroidStudioProjects/EMedicare/app/src/main/res/drawable/ic_menu.xml" value="0.18958333333333333" />
+        <entry key="..\:/Users/gf65/AndroidStudioProjects/EMedicare/app/src/main/res/layout/activity_forgot_password.xml" value="0.1984375" />
+        <entry key="..\:/Users/gf65/AndroidStudioProjects/EMedicare/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/gf65/AndroidStudioProjects/EMedicare/app/src/main/res/layout/activity_profile.xml" value="0.1734375" />
+        <entry key="..\:/Users/gf65/AndroidStudioProjects/EMedicare/app/src/main/res/layout/activity_register_user.xml" value="0.25" />
+        <entry key="..\:/Users/gf65/AndroidStudioProjects/EMedicare/app/src/main/res/layout/main_nav_drawer.xml" value="0.1734375" />
+        <entry key="..\:/Users/gf65/AndroidStudioProjects/EMedicare/app/src/main/res/layout/main_toolbar.xml" value="0.1734375" />
+        <entry key="..\:/Users/gf65/AndroidStudioProjects/EMedicare/app/src/main/res/layout/main_toolbar_app_update_user.xml" value="0.1734375" />
+        <entry key="..\:/Users/gf65/AndroidStudioProjects/Mad Buying project/MadTest2/app/src/main/res/layout/activity_appointment.xml" value="0.1921875" />
+        <entry key="..\:/Users/gf65/AndroidStudioProjects/Mad Buying project/MadTest2/app/src/main/res/layout/activity_appointment_info.xml" value="0.264" />
+        <entry key="..\:/Users/gf65/AndroidStudioProjects/Mad Buying project/MadTest2/app/src/main/res/layout/activity_doc_appointment.xml" value="0.2" />
+        <entry key="..\:/Users/gf65/AndroidStudioProjects/Mad Buying project/MadTest2/app/src/main/res/layout/activity_doc_appointment2.xml" value="0.264" />
+        <entry key="..\:/Users/gf65/AndroidStudioProjects/Mad Buying project/MadTest2/app/src/main/res/layout/activity_doc_appointment_info.xml" value="0.25" />
+        <entry key="..\:/Users/gf65/AndroidStudioProjects/Mad Buying project/MadTest2/app/src/main/res/layout/activity_edit_appointment.xml" value="0.25" />
+        <entry key="..\:/Users/gf65/AndroidStudioProjects/Mad Buying project/MadTest2/app/src/main/res/layout/activity_health_calculator.xml" value="0.20989583333333334" />
+        <entry key="..\:/Users/gf65/AndroidStudioProjects/Mad Buying project/MadTest2/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/Users/gf65/AndroidStudioProjects/Mad Buying project/MadTest2/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/gf65/AndroidStudioProjects/Mad Buying project/MadTest2/app/src/main/res/layout/activity_nav_drawer.xml" value="0.20989583333333334" />
+        <entry key="..\:/Users/gf65/AndroidStudioProjects/Mad Buying project/MadTest2/app/src/main/res/layout/activity_payment.xml" value="0.25" />
+        <entry key="..\:/Users/gf65/AndroidStudioProjects/Mad Buying project/MadTest2/app/src/main/res/layout/activity_payment_info.xml" value="0.25" />
+        <entry key="..\:/Users/gf65/AndroidStudioProjects/Mad Buying project/MadTest2/app/src/main/res/layout/activity_view_appointment.xml" value="0.25" />
+        <entry key="..\:/Users/gf65/AndroidStudioProjects/Mad Buying project/MadTest2/app/src/main/res/layout/main_nav_drawer.xml" value="0.20989583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

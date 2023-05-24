@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "463109944755",
+    "project_id": "emedicare2",
+    "storage_bucket": "emedicare2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463109944755:android:e60aa2f2a28c32355907c6",
+        "android_client_info": {
+          "package_name": "com.example.emedicare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463109944755-805flm4d39jbd4k20bmgaaacucq3rhu0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIVGR1xr-8Y9OxqZb2Lj-uXO5ccdOcxLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463109944755-805flm4d39jbd4k20bmgaaacucq3rhu0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
